@@ -13,4 +13,3 @@ public
 docs
 .nyc_output
 cassettes
-constants.js
