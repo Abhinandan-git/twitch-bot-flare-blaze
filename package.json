@@ -2,7 +2,7 @@
   "name": "twitchbot",
   "version": "0.0.0",
   "description": "A Twitch Mod Bot",
-  "main": "src",
+  "main": "index.js",
   "scripts": {
     "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
